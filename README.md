@@ -40,7 +40,7 @@
 
 ---
 
-## 🏥 Key Features
+##  Key Features
 
 ### 🔴 Real-Time Risk Monitoring
 - Continuous risk assessment updated every 15-60 minutes
