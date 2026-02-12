@@ -15,7 +15,7 @@
 
 ---
 
-## Executive Summar
+## Executive Summary
 
 **ClinicalAI-EWS** is a machine learning-based early warning system that continuously monitors hospitalized patients and predicts their risk of clinical deterioration requiring ICU-level intervention within the next 12-24 hours.
 
